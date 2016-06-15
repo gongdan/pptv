@@ -1,0 +1,42 @@
+# Android generated
+bin/
+gen/
+classes/
+gen-external-apklibs/
+
+# Ant
+local.properties
+
+# Maven
+target/
+release.properties
+
+# Eclipse
+.project
+.externalToolBuilders/
+.metadata
+.settings
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Mac
+.DS_Store
+
+# gitignore
+#.gitignore
+#Common/project.properties
+#pptv_plugin_sdk/.classpath
+#PPTV_phone/res/drawable-hdpi/bg_tribe_default.png
+#PPTV_phone/res/drawable-hdpi/bg_tribe_guide_default.png
+#PPTV_phone/res/drawable-hdpi/bg_tribe_guide_pressed.png
+#PPTV_phone/res/drawable-hdpi/bg_tribe_pressed.png
+#PPTV_phone/.amateras
+#Common/.classpath
+#PPTV_phone/.classpath
+#PPTV_phone/lint.xml
+#PPTV_phone/gradle.properties
