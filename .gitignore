@@ -28,7 +28,7 @@ out/
 .DS_Store
 
 # gitignore
-#.gitignore
+.gitignore
 #Common/project.properties
 #pptv_plugin_sdk/.classpath
 #PPTV_phone/res/drawable-hdpi/bg_tribe_default.png
