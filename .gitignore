@@ -37,6 +37,6 @@ out/
 #PPTV_phone/res/drawable-hdpi/bg_tribe_pressed.png
 #PPTV_phone/.amateras
 #Common/.classpath
-#PPTV_phone/.classpath
-#PPTV_phone/lint.xml
-#PPTV_phone/gradle.properties
+TestApp/app/build
+.gradle
+TestApp/.gradle
